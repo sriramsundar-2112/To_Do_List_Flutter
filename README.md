@@ -33,7 +33,7 @@ flutter run
 flutter build apk --release
 ```
 ### 📦 APK Download
-  - link : 
+  - link : https://drive.google.com/file/d/1HV5oQjYthrBbbaTgeaJgWm9iXA4ailFP/view?usp=drive_link
 
 ### 🛠️ Architecture
   - TaskMate uses the MVVM (Model-View-ViewModel) pattern with Provider for state management. This promotes a clean separation of concerns and scalable app structure.
@@ -43,7 +43,7 @@ flutter build apk --release
 
 
 ### 📹 Demo Video
-  - 🎥 Watch on Loom / Google Drive Link : 
+  - 🎥 Watch on Loom / Google Drive Link : https://drive.google.com/file/d/1hYL2zHkKhuTaa_pmtagCGs2iG6Bg8f5k/view?usp=drive_link
 
 ### 🧠 Assumptions
  - The app assumes the user has an internet connection for Google Sign-In.
