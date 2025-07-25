@@ -33,11 +33,14 @@ flutter run
 flutter build apk --release
 ```
 ### 📦 APK Download
+  - link : 
 
 ### 🛠️ Architecture
   - TaskMate uses the MVVM (Model-View-ViewModel) pattern with Provider for state management. This promotes a clean separation of concerns and scalable app structure.
 
 ### 📊 Architecture Diagram
+   ![Uploading architecture (2).png…]()
+
 
 ### 📹 Demo Video
   - 🎥 Watch on Loom / Google Drive Link : 
